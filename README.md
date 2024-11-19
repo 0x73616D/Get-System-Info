@@ -19,31 +19,17 @@ This repository contains a set of C++ functions for retrieving various system in
 - Windows OS (the code is designed for Windows 7 and later)
 - A C++ compiler that supports C++11 or later
 
-## Compilation and Usage
+## Usage
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/0x73616D/Get-System-Info.git
-    ```
+To use this project, simply take the code for the function you wish to use and ensure that you include the necessary libraries and headers.
 
-2. Navigate into the project directory:
-    ```bash
-    cd Get-System-Info
-    ```
+For example:
 
-3. Compile the C++ files using your preferred compiler (e.g., MSVC or MinGW).
-
-    For MSVC, you can use the following command:
-    ```bash
-    cl /EHsc your_file.cpp
-    ```
-
-4. Run the compiled executable to get system information.
-
-    Example:
-    ```bash
-    ./your_program.exe
-    ```
+1. Choose the function you want to use (e.g., `GetCPU()`) and copy the code.
+2. Create a new C++ file and paste the function code into your project.
+3. Include the required headers and libraries as indicated within the function code (e.g., `<iostream>`, `<windows.h>`, etc.).
+4. Compile your C++ code with your preferred compiler (e.g., MSVC or MinGW).
+5. Run the compiled executable to retrieve the system information.
 
 ## Example Usage
 
