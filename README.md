@@ -28,7 +28,7 @@ This repository contains a set of C++ functions for retrieving various system in
 
 2. Navigate into the project directory:
     ```bash
-    cd windows-system-info
+    cd Get-System-Info
     ```
 
 3. Compile the C++ files using your preferred compiler (e.g., MSVC or MinGW).
