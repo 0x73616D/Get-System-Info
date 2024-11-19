@@ -23,7 +23,7 @@ This repository contains a set of C++ functions for retrieving various system in
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/windows-system-info.git
+    git clone https://github.com/0x73616D/Get-System-Info.git
     ```
 
 2. Navigate into the project directory:
